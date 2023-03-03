@@ -8,6 +8,7 @@
 
 //Add your code here
 //Include a solver
+#include "./eigen3/Eigen/SparseLU"
 
 class EigenTutorial {
 public:
